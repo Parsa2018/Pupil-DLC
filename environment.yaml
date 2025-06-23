@@ -1,0 +1,16 @@
+name: pupil-dlc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.20
+  - deeplabcut=2.2.3
+  - pandas
+  - numpy
+  - scikit-image
+  - click
+  - pyfiglet
+  - pyyaml
+  - pip
+  - pip:
+      - setuptools
