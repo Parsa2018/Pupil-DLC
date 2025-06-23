@@ -8,12 +8,11 @@ import click
 import pyfiglet
 import pandas as pd
 import deeplabcut
-from ellipse import ellipse_fitting
 import time
 
 
-sys.path.append(r"C:\Users\Valyria\Projects\Allen\Pupil_Tracking_Project\Scripts\yaml")
-from yaml_section import replace_yaml_section
+from .ellipse import ellipse_fitting
+from .yaml_section import replace_yaml_section
 
 def analyze_and_ellipse(experiment, video_path, config_path):
     """Common: analyze video, fit ellipse, save CSV."""

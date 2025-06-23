@@ -3,14 +3,17 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8.20
-  - deeplabcut=2.2.3
-  - pandas
-  - numpy
-  - scikit-image
-  - click
-  - pyfiglet
-  - pyyaml
+  - python=3.8
   - pip
+  - ipython
+  - cudatoolkit=11.2
+  - cudnn=8.1.0
   - pip:
-      - setuptools
+      - tensorflow<2.11
+      - deeplabcut[gui]==2.2.3
+      - pandas
+      - numpy
+      - scikit-image
+      - click
+      - pyfiglet
+      - pyyaml
