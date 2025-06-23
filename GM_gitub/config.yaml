@@ -1,0 +1,281 @@
+    # Project definitions (do not edit)
+Task: GM
+scorer: Parsa
+date: Nov17
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: D:/Allen/Pupil_Tracking_Project/DLC_projects/General_model/Projects/GM_github
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M577578_ASE-Parsa-2024-10-12\videos\210708102517-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M598181_ASE-Parsa-2024-10-13\videos\211215110146-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M622179_ASE-Parsa-2024-10-13\videos\220414102032-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M622180_ASE-Parsa-2024-10-13\videos\220526104840-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M631037_AE-Parsa-2024-05-04\videos\221206095347-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M631037_UE-Parsa-2024-05-03\videos\221207103420-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M631538_ASE-Parsa-2024-10-13\videos\220609110421-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M638330_ASE-Parsa-2024-10-13\videos\220804103008-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M654182_AE-Parsa-2024-05-04\videos\221201103327-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M655955_AE-Parsa-2024-05-03\videos\221213100447-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M655955_UE-Parsa-2024-05-03\videos\221214103738-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M655956_UE-Parsa-2024-04-29\videos\221216104456-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M655957_ASE-Parsa-2024-10-13\videos\221209110902-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M657902_ASE-Parsa-2024-10-20\videos\230118112507-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M657904_ASE-Parsa-2024-10-13\videos\230120101424-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M657905_ASE-Parsa-2024-10-13\videos\230131105634-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666193_AE-Parsa-2024-04-29\videos\230215114359-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666193_PE-Parsa-2024-04-29\videos\230216105535-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666193_UE-Parsa-2024-04-29\videos\230217122234-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666194_AE-Parsa-2024-04-29\videos\230222123242-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666194_PE-Parsa-2024-04-29\videos\230223104014-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666194_UE-Parsa-2024-04-29\videos\230224111927-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666196_A-Parsa-2024-02-18\videos\230315122900-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M666196_P-Parsa-2024-02-19\videos\230316102114-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M669117_AE-Parsa-2024-04-29\videos\230329110812-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M669117_UE-Parsa-2024-04-28\videos\230331115134-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M669118_PE-Parsa-2024-04-29\videos\230324095515-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M676726_AIE-Parsa-2024-04-28\videos\230504110147-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M676726_PE-Parsa-2024-04-28\videos\230503110731-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M676727_AIE-Parsa-2024-04-28\videos\230511094429-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M676727_PE_200-Parsa-2024-03-25\videos\230510094857-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M676727_UE-Parsa-2024-04-27\videos\230512113524-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M678912_PE-Parsa-2024-04-24\videos\230622114136-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M678912_UE-Parsa-2024-04-22\videos\230623110739-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M678913_PE-Parsa-2024-04-22\videos\230629124911-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M678913_UE-Parsa-2024-04-21\videos\230630105607-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M688277_AIE-Parsa-2024-02-26\videos\230921104107-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M688277_UE-Parsa-2024-02-26\videos\230922120359-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689239_AIE-Parsa-2024-04-20\videos\230809111526-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689239_PE-Parsa-2024-04-20\videos\230810112613-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689239_UE-Parsa-2024-04-20\videos\230811113326-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689240_AIE-Parsa-2024-04-20\videos\230818100318-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689240_PE-Parsa-2024-04-20\videos\230817094619-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689241_PE-Parsa-2024-04-21\videos\230727110441-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689242_AIE-Parsa-2024-04-21\videos\230720105225-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689242_PE-Parsa-2024-04-21\videos\230719102906-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M689242_UE-Parsa-2024-04-21\videos\230721123154-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M692643_PE-Parsa-2024-04-20\videos\230831124132-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M692644_PE-Parsa-2024-04-20\videos\230907115127-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M692644_UE-Parsa-2024-04-20\videos\230908111444-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703062_AIE-Parsa-2024-04-17\videos\231019131259-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703062_UE-Parsa-2024-04-16\videos\231020120029-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703063_AIE-Parsa-2024-04-16\videos\231116111614-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703063_PE-Parsa-2024-04-16\videos\231115110757-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703063_UE-Parsa-2024-04-02\videos\231117124658-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703064_AIE-Parsa-2024-04-02\videos\231129112314-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703064_UE-Parsa-2024-04-01\videos\231201112001-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703065_AIE-Parsa-2024-04-01\videos\231207102320-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703065_PE-Parsa-2024-04-01\videos\231206110421-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M703065_UE-Parsa-2024-04-01\videos\231208115726-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M709400_AI-Parsa-2024-02-21\videos\240131113505-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M709400_K-Parsa-2024-02-19\videos\240201111201-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M709401_AIE-Parsa-2024-03-30\videos\231213095450-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M709401_PE-Parsa-2024-04-01\videos\231214111705-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M709402_AI-Parsa-2024-02-21\videos\240215102556-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M709402_K_2-Parsa-2024-02-21\videos\240214123117-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M709402_U-Parsa-2024-02-20\videos\240216111525-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M720762_AI-Parsa-2024-03-05\videos\240221103153-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M720762_K-Parsa-2024-03-05\videos\240222104320-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M724057_AE-Parsa-2024-05-07\videos\240405101410-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M724057_PE-Parsa-2024-05-04\videos\240404103504-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M728449_AE-Parsa-2024-05-04\videos\240410100428-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M728449_AE2-Parsa-2024-05-05\videos\240412101607-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M728449_PE-Parsa-2024-05-04\videos\240411103721-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M730911_AE-Parsa-2024-05-10\videos\240501115700-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M730911_KE-Parsa-2024-05-10\videos\240502104122-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M730913_AE-Parsa-2024-05-05\videos\240424104311-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M730913_KE-Parsa-2024-05-05\videos\240426101112-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735049_AE-Parsa-2024-06-17\videos\240522110447-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735049_KE-Parsa-2024-06-16\videos\240523114149-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735050_AE-Parsa-2024-07-05\videos\240529100733-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735050_PE-Parsa-2024-06-24\videos\240530094557-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735051_AE-Parsa-2024-07-06\videos\240612113802-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735051_AE2-Parsa-2024-07-06\videos\240614103636-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735051_PE-Parsa-2024-07-06\videos\240613104342-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735052_AE-Parsa-2024-07-06\videos\240619110705-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735052_AE2-Parsa-2024-07-07\videos\240621105555-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M735052_PE-Parsa-2024-07-06\videos\240620104043-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M742746_ATE-Parsa-2024-07-28\videos\240717120929-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M742746_ATE2-Parsa-2024-07-28\videos\240717132047-0.avi
+  : crop: 0, 640, 0, 480
+  ? D:\Allen\Pupil_Tracking_Project\DLC_projects\General_model\Training_sets\GME\M742746_UPE-Parsa-2024-07-27\videos\240718110606-0.avi
+  : crop: 0, 640, 0, 480
+  D:\Allen\Pupil_Tracking_Project\DLC_projects\GM_vs_IM\videos\mouse771425_iso\241120105438-0.avi:
+    crop: 0, 640, 0, 480
+bodyparts:
+- Point1
+- Point2
+- Point3
+- Point4
+- Point5
+- Point6
+- Point7
+- Point8
+- Point9
+- Point10
+- Point11
+- Point12
+- Eye1
+- Eye2
+- Eye3
+- Eye4
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - Point1
+  - Point2
+- - Point2
+  - Point3
+- - Point3
+  - Point4
+- - Point4
+  - Point5
+- - Point5
+  - Point6
+- - Point6
+  - Point7
+- - Point7
+  - Point8
+- - Point8
+  - Point9
+- - Point9
+  - Point10
+- - Point10
+  - Point11
+- - Point11
+  - Point12
+- - Point12
+  - Point1
+- - Eye1
+  - Eye2
+- - Eye2
+  - Eye3
+- - Eye3
+  - Eye4
+- - Eye4
+  - Eye1
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 2
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
