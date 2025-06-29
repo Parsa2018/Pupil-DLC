@@ -38,7 +38,7 @@ cd Pupil-DLC
 ```
 conda env create -f environment.yaml
 
-conda activate pupil-dlc-env
+conda activate pupil-dlc
 ```
 
 ### 3. Install the package locally
@@ -77,6 +77,7 @@ Selecting a video file
 (Optional for IM) Labeling, training, and evaluation
 
 Output: ellipse-fitted CSV with eye diameter
+
 
 📦 Dependencies
 
