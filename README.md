@@ -27,18 +27,25 @@
 ### 1. Clone the repository
 
 In the terminal (Git Bash or Anaconda terminal in Windows):
+```
 git clone https://github.com/Parsa2018/Pupil-DLC.git
+
 cd Pupil-DLC
+```
 
 ### 2. Create and activate the Conda environment
 
-conda env create -f environment.yml
+```
+conda env create -f environment.yaml
+
 conda activate pupil-dlc-env
+```
 
 ### 3. Install the package locally
 
+```
 pip install -e .
-
+```
 
 You should see the ASCII logo and be prompted for input.
 ```
@@ -55,7 +62,9 @@ Run the CLI:
 
 bash:
 
+```
 pupil-dlc
+```
 
 You'll be guided through:
 
@@ -70,6 +79,7 @@ Selecting a video file
 Output: ellipse-fitted CSV with eye diameter
 
 📦 Dependencies
+
 Python 3.8
 
 DeepLabCut 2.2.3
