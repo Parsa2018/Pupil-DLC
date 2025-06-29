@@ -41,13 +41,14 @@ pip install -e .
 
 
 You should see the ASCII logo and be prompted for input.
+```
     ____              _ __      ____  __    ______
    / __ \__  ______  (_) /     / __ \/ /   / ____/
   / /_/ / / / / __ \/ / /_____/ / / / /   / /
  / ____/ /_/ / /_/ / / /_____/ /_/ / /___/ /___
 /_/    \__,_/ .___/_/_/     /_____/_____/\____/
            /_/
-
+```
 
 🎮 Usage Instructions
 Run the CLI:
